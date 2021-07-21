@@ -24,7 +24,7 @@ The [FreeSK8 Mobile](https://freesk8.app) application is a cross platform soluti
 
 ### FreeSK8 Robogotchi
 
-The [FreeSK8 Robogotchi] is an advanced BLE Receiver, Datalogger, and core component of the FreeSK8 System.
+The FreeSK8 Robogotchi is an advanced BLE Receiver, Datalogger, and core component of the FreeSK8 System.
 
 The Robogotchi brings Always-On Logging as a core feature with an asynchronous logging integration with our FreeSK8 Mobile App. Think of it like a blackbox flight recorder for your esk8 or LEV. 
 
@@ -32,7 +32,7 @@ Learn all about it [here](./docs/robogotchi/)
 
 ### FreeSK8 Remote (OSRR 1.0)
 
-The [OSRR] Open Source Reconfigurable Remote is an open spec reference design for a robust remote control device for use with [VESC](https://vesc-project.com/) based PEVs. 
+The OSRR (Open Source Reconfigurable Remote) is an open spec reference design for a robust remote control device for use with [VESC](https://vesc-project.com/) based PEVs. 
 
 Learn all about it [here](./docs/osrr/)
 
