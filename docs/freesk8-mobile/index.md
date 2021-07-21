@@ -1,13 +1,13 @@
 ---
 layout: default
 title: FreeSK8 Mobile
-nav_order: 2
+nav_order: 1
 has_children: true
 ---
 
 # FreeSK8 Mobile App
 
-The FreeSK8 Mobile application is a cross platform solution to monitor and configure VESC based ESCs via Bluetooth. 
+The FreeSK8 Mobile application is a cross platform solution to monitor and configure VESC based ESCs via Bluetooth. Firmware version 5+ is required. 
 
 The app also provides a ride log sync interface & viewer for the Robogotchi & Xenigotchi integrated dataloggers. Logging over BLE tether is not supported at this time. 
 
@@ -15,7 +15,7 @@ Available for Android & iOS:
 <br>[Get FreeSK8 Mobile](https://freesk8.app){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
 
-## Supported ESCs (fw5+) & Radio Modules
+## Supported Devices
 * Robogotchi
 * Xenigotchi
 * Stormcore 60/100D ESCs
