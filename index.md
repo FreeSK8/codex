@@ -16,13 +16,11 @@ A technical documentation resource for the FreeSK8 Project & supported hardware 
 
 ---
 
-## Getting started
-
-### FreeSK8 Mobile
+## [FreeSK8 Mobile](https://codex.freesk8.org/docs/freesk8-mobile/)
 
 The [FreeSK8 Mobile](https://freesk8.app) application is a cross platform solution to monitor and configure [VESC](https://vesc-project.com/) based ESCs via Bluetooth. Learn all about it [here](./docs/freesk8-mobile/).
 
-### FreeSK8 Robogotchi
+## [FreeSK8 Robogotchi](https://codex.freesk8.org/docs/robogotchi/)
 
 The FreeSK8 Robogotchi is an advanced BLE Receiver, Datalogger, and core component of the FreeSK8 System.
 
@@ -30,20 +28,26 @@ The Robogotchi brings Always-On Logging as a core feature with an asynchronous l
 
 Learn all about it [here](./docs/robogotchi/)
 
-### FreeSK8 Remote (OSRR 1.0)
+## [FreeSK8 Remote (OSRR 1.0)](https://codex.freesk8.org/docs/osrr/)
 
 The OSRR (Open Source Reconfigurable Remote) is an open spec reference design for a robust remote control device for use with [VESC](https://vesc-project.com/) based PEVs. 
 
 Learn all about it [here](./docs/osrr/)
 
-### FreeSK8 netBMS
+## [FreeSK8 netBMS](https://codex.freesk8.org/docs/bms/)
 
 A connected, intelligent battery charge monitor system. More info coming soon.  
+
+## [sk8net](https://codex.freesk8.org/docs/sk8net/)
+
+sk8net with a lowercase 8 is a collection of online tools and connected services built to provide a useful data platform for personal electric vehicles.
 
 
 ## About the project
 
 FreeSK8 Codex is &copy; 2021 by [FreeSK8 Foundation NPO](https://freesk8.org).
+
+You can support this project on the [FreeSK8 Patreon](https://Patreon.com/FreeSK8Devs).
 
 ### License
 
