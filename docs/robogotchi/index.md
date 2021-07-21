@@ -15,4 +15,4 @@ The Robogotchi brings Always-On Logging as a core feature with an asynchronous l
 
 Ride now, Sync later.
 
-![Robogotchi v1.5](assets/images/robogotchi/robogotchi.jpg)
+![Robogotchi v1.5](https://codex.freesk8.org/assets/images/robogotchi/robogotchi.jpg)
