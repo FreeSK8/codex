@@ -1,0 +1,74 @@
+I"<h3 id="robogotchi-status-screen">Robogotchi Status Screen</h3>
+
+<p><img src="https://codex.freesk8.org/assets/images/robogotchi/Robotochi-Screen-Status.jpg" alt="Robogotchi OLED Status Screen" /></p>
+
+<h3 id="bluetooth-status-and-pin-code">Bluetooth Status and PIN code</h3>
+
+<p><img src="https://codex.freesk8.org/assets/images/robogotchi/LED-Status.PNG" alt="" /></p>
+
+<h3 id="display-pin-code">Display PIN code</h3>
+
+<p>When there is no active Bluetooth connection pressing button B1 will toggle the display of Robogotchi’s PIN code.</p>
+
+<h3 id="revoke-access-to-all-previously-connected-devices">Revoke Access to all previously connected devices</h3>
+
+<p>When there is no active Bluetooth connection holding button B1 for 5 seconds will display CLEARD. At this time Robogotchi will have revoked access to all previously connected mobile devices. You must remove that FreeSK8 Robogotchi profile from your mobile device and then reconnect using the PIN code to create a new profile.</p>
+
+<p><strong>iOS users:</strong></p>
+<ul>
+  <li>Navigate to Settings -&gt; Bluetooth</li>
+  <li>Tap the (i) next to FreeSK8 Robogotchi under MY DEVICES</li>
+  <li>Select Forget This Device</li>
+</ul>
+
+<p><strong>Android users:</strong></p>
+<ul>
+  <li>Navigate to Settings -&gt; Connected devices</li>
+  <li>Tap the (Gear Icon) next to FreeSK8 Robogotchi</li>
+  <li>Select Forget</li>
+</ul>
+
+<h3 id="esc-packet-status">ESC Packet Status</h3>
+
+<p>As ESC data is received by Robogotchi the circle icon will move left and right. If a circle does not appear or is not moving there is trouble communicating with the ESC.</p>
+
+<p>Robogotchi automatically determines if the TX and RX wires are switched and will adjust every 3 seconds.</p>
+
+<h3 id="gps-data-status">GPS Data Status</h3>
+
+<p>The value after GPS is updated with the seconds of the minute as seen from the GPS module. The uBlox module shipping with the beta units may report a value of 247 until a satellite signal is acquired.</p>
+
+<p>Typically you would expect to see this update once a second with the current second of the minute.</p>
+
+<h3 id="gps-signal-status">GPS Signal Status</h3>
+
+<p>Two digits after the S represent the GPS status being valid and of good quality. 
+The first digit can be a 0 or a 1 with 1 meaning the GPS status is valid.
+The second digit can be 0,1,2 with 1 and 2 meaning the GPS fix is valid.</p>
+
+<p>If this reads S00 make sure your GPS has a clear view of the sky and wait a few minutes for the signal to be acquired.</p>
+
+<p>Robogotchi will play audio tones when the GPS signal becomes valid or is lost.</p>
+
+<h3 id="esc-fault-indicator">ESC Fault Indicator</h3>
+
+<p>This displays the number of fault types Robogotchi has received from the ESC(s) this session. A value of F00 indicates all is well.</p>
+
+<p>A history of fault codes received are stored in memory while all faults are saved to the log files.</p>
+
+<p>Robogotchi will play audio tones when a fault is observed.</p>
+
+<h3 id="filesystem-free-space-">Filesystem free space %</h3>
+
+<p>As log files are saved to Robogotchi the available storage space is monitored.</p>
+
+<p>Robogotchi will play audio tones when storage reaches a user defined limit.</p>
+
+<h3 id="logging-in-progress-indicator">Logging in progress indicator</h3>
+
+<p>This will display Log active when Robogotchi is saving data to it’s internal storage.</p>
+
+<h3 id="number-of-files-saved-on-robogotchi">Number of files saved on Robogotchi</h3>
+
+<p>Each log is counted as 1 file and will remain on Robogotchi until a Sync operation is performed in the FreeSK8 Mobile companion application.</p>
+:ET
