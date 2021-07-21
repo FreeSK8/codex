@@ -5,6 +5,4 @@ nav_order: 4
 parent: FreeSK8 Mobile
 ---
 
-# Input Wizard
-
 ## SETUP STUFF
