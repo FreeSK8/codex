@@ -17,7 +17,5 @@ If you have not previously run a successful motor detection, you can do so via t
 ## Next Steps: 
 
 ## [Input Configuration](https://codex.freesk8.org/docs/freesk8-mobile/input-config/)
-
 ## [Ride Logging](https://codex.freesk8.org/docs/freesk8-mobile/ride-logging/)
-
 ## [Advanced](https://codex.freesk8.org/docs/freesk8-mobile/advanced/)

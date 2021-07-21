@@ -13,5 +13,4 @@ parent: FreeSK8 Mobile
 ## Next Steps: 
 
 ## [Ride Logging](https://codex.freesk8.org/docs/freesk8-mobile/ride-logging/)
-
 ## [Advanced](https://codex.freesk8.org/docs/freesk8-mobile/advanced/)

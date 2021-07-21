@@ -32,6 +32,5 @@ The sync time will vary depending on your ride duration, logging rate, signal qu
 ## Next Steps: 
 
 ## [Robogotchi Documentation](https://codex.freesk8.org/docs/robogotchi/)
-
 ## [Advanced](https://codex.freesk8.org/docs/freesk8-mobile/advanced/)
 
