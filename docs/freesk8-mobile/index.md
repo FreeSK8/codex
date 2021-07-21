@@ -7,5 +7,5 @@ has_children: true
 
 # FreeSK8 Mobile App
 
-Found at: [FreeSK8.app](https://freesk8.app)
+Available for Android & iOS at: [FreeSK8.app](https://freesk8.app)
 
