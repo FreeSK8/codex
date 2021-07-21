@@ -17,4 +17,4 @@ The [FLDA](./upload) (FreeSK8 Data Log Analyzer) was derived from the [VDLA](htt
 
 #### Overlay
 
-The [Overlay tool](./overlay) allows you to take your FreeSK8 data and add it to your videos using the Garmin [VIRB Edit](https://www8.garmin.com/support/download_details.jsp?id=6591) software. The Garmin software is for Windows based computers and free to download. You can use video from essentially any camera and overlay custom gauges.
+The [Overlay Tool](./overlay) allows you to take your FreeSK8 data and add it to your videos using the Garmin [VIRB Edit](https://www8.garmin.com/support/download_details.jsp?id=6591) software. The Garmin software is for Windows based computers and free to download. You can use video from essentially any camera and overlay custom gauges.
