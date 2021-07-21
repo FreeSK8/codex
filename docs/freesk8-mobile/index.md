@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FreeSK8 Mobile
-nav_order: 5
+nav_order: 2
 has_children: true
 ---
 
