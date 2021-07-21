@@ -16,3 +16,7 @@ The Robogotchi brings Always-On Logging as a core feature with an asynchronous l
 Ride now, Sync later.
 
 ![Robogotchi v1.5](https://codex.freesk8.org/assets/images/robogotchi/robogotchi.jpg)
+
+# Quick Start
+
+1. Plug in your Robogotchi into your ESC using supplied UART Cable. 2. Plug in your GPS Module. 
