@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FreeSK8 Mobile
-nav_order: 2
+nav_order: 5
 has_children: true
 ---
 
@@ -43,5 +43,13 @@ Available for Android & iOS:
 
 ## Create new Board Profile
 ![Board Profile](https://codex.freesk8.org/assets/images/mobileapp/saveprofile.png)
+
+## Additional Features found in Side Menu
+![Side Menu](https://codex.freesk8.org/assets/images/mobileapp/sidemenu.png)
+
+
+That's it! You're ready to roll. 
+
+Check out the links in the Next Steps below to see the rest of the features & configuration options available.
 
 ## Next Steps: [Connection Status](https://codex.freesk8.org/docs/freesk8-mobile/connection/)
