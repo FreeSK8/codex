@@ -9,7 +9,7 @@ permalink: /
 # FreeSK8 Codex
 {: .fs-9 }
 
-A technical documenation resource for the FreeSK8 Project & supported hardware components.
+A technical documentation resource for the FreeSK8 Project & supported hardware components.
 {: .fs-6 .fw-300 }
 
 [Get FreeSK8 Mobile](https://freesk8.app){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Find us on GitHub](https://github.com/FreeSK8){: .btn .fs-5 .mb-4 .mb-md-0 }
