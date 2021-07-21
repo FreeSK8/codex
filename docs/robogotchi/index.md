@@ -19,4 +19,16 @@ Ride now, Sync later.
 
 # Quick Start
 
-1. Plug in your Robogotchi into your ESC using supplied UART Cable. 2. Plug in your GPS Module. 
+1. Plug in your Robogotchi into your ESC using supplied UART Cable. 
+2. Plug in your GPS Module. 
+![Robogotchi Hardware Layout](https://codex.freesk8.org/assets/images/robogotchi/Robogotchi-pinout.png)
+
+3. Turn on board & connect with FreeSK8 Mobile & Pair your Robogotchi using supplied PIN code. 
+![Select & Connect to Supported Device](https://codex.freesk8.org/assets/images/mobileapp/scan2.png)
+
+4. Create Board Profile & set user preferences.
+![Board Profile](https://codex.freesk8.org/assets/images/mobileapp/saveprofile.png)
+
+5. Setup your Robogotchi Config.
+![Gotchi Config](https://codex.freesk8.org/assets/images/mobileapp/gotchiconfig.png)
+![Gotchi Config](https://codex.freesk8.org/assets/images/mobileapp/gotchiconfig2.png)
