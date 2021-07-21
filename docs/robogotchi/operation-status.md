@@ -7,11 +7,11 @@ parent: Robogotchi
 
 ### Robogotchi Status Screen
 
-![Robogotchi OLED Status Screen](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Docs/Robotochi-Screen-Status.jpg)
+![Robogotchi OLED Status Screen](https://codex.freesk8.org/assets/images/robogotchi/Robotochi-Screen-Status.jpg)
 
 ### Bluetooth Status and PIN code
 
-![](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Docs/LED-Status.PNG)
+![](https://codex.freesk8.org/assets/images/robogotchi/LED-Status.PNG)
 
 ### Display PIN code
 
