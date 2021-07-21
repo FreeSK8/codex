@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Input Wizard
-nav_order: 4
+title: Input Config
+nav_order: 3
 parent: FreeSK8 Mobile
 ---
 

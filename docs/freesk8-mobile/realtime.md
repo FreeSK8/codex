@@ -5,4 +5,4 @@ nav_order: 2
 parent: FreeSK8 Mobile
 ---
 
-## Realtime Status Screen
+## Setup/docs
