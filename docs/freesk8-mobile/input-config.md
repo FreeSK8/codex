@@ -5,4 +5,6 @@ nav_order: 3
 parent: FreeSK8 Mobile
 ---
 
-## SETUP STUFF
+## Input Configuration
+![Input Configuration](https://codex.freesk8.org/assets/images/mobileapp/inputconfig.png)
+![Input Configuration](https://codex.freesk8.org/assets/images/mobileapp/inputconfig2.png)

@@ -26,22 +26,22 @@ Available for Android & iOS:
 
 # Quick Start
 
-### Scan for BLE Devices
+## Scan for BLE Devices
 ![Scan for BLE Devices](https://codex.freesk8.org/assets/images/mobileapp/scan.png)
 
-### Select & Connect to Supported Device
+## Select & Connect to Supported Device
 ![Select & Connect to Supported Device](https://codex.freesk8.org/assets/images/mobileapp/scan2.png)
 
 
-### Enter PIN Code (optional, device-dependent)
+## Enter PIN Code (optional, device-dependent)
 ![Enter PIN Code](https://codex.freesk8.org/assets/images/mobileapp/pair.png)
 ![Enter PIN Code](https://codex.freesk8.org/assets/images/mobileapp/paircode.png)
 
-### Create new Board Profile
+## Create new Board Profile
 ![Board Profile](https://codex.freesk8.org/assets/images/mobileapp/saveprofile.png)
 
 
-### Create new Board Profile
+## Create new Board Profile
 ![Board Profile](https://codex.freesk8.org/assets/images/mobileapp/saveprofile.png)
 
-## Next: [Connection Status](https://codex.freesk8.org/docs/freesk8-mobile/connection/)
+## Next Steps: [Connection Status](https://codex.freesk8.org/docs/freesk8-mobile/connection/)
