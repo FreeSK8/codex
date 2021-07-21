@@ -51,3 +51,7 @@ parent: Robogotchi
 Deep dive into the Robogotchi [firmware](https://github.com/FreeSK8/FreeSK8-Robogotchi-Firmware/).
 
 Deep dive into the Robogotchi [hardware](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/).
+
+
+
+## Next Steps: [Robogotchi Operation & Status](https://codex.freesk8.org/docs/robogotchi/operation-status/)

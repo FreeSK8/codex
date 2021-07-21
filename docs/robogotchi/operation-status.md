@@ -74,3 +74,6 @@ This will display Log active when Robogotchi is saving data to it’s internal s
 ### Number of files saved on Robogotchi
 
 Each log is counted as 1 file and will remain on Robogotchi until a Sync operation is performed in the FreeSK8 Mobile companion application.
+
+
+## Next Steps: [Robogotchi Sounds & Alerts](https://codex.freesk8.org/docs/robogotchi/sounds-alerts/)

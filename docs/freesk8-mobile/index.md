@@ -40,10 +40,6 @@ Available for Android & iOS:
 ## Create new Board Profile
 ![Board Profile](https://codex.freesk8.org/assets/images/mobileapp/saveprofile.png)
 
-
-## Create new Board Profile
-![Board Profile](https://codex.freesk8.org/assets/images/mobileapp/saveprofile.png)
-
 ## Additional Features found in Side Menu
 ![Side Menu](https://codex.freesk8.org/assets/images/mobileapp/sidemenu.png)
 

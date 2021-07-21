@@ -9,4 +9,3 @@ parent: FreeSK8 Mobile
 ![Input Configuration](https://codex.freesk8.org/assets/images/mobileapp/inputconfig.png)
 ![Input Configuration](https://codex.freesk8.org/assets/images/mobileapp/inputconfig2.png)
 
-## Further Reading: 
