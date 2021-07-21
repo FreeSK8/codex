@@ -13,11 +13,12 @@ Available for Android & iOS:
 <br>[Get FreeSK8 Mobile](https://freesk8.app){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
 
-## Supported ESCs (fw5+)
+## Supported ESCs (fw5+) & Radio Modules
 * Robogotchi
 * Xenigotchi
 * Stormcore 60/100D (Integrated BLE)
 * Trampa NRF/BLE Module
+* Metr Pro
 * Xenith & Unity ESC
 * Spintend Ubox
 
@@ -30,6 +31,10 @@ Available for Android & iOS:
 ![Select & Connect to Supported Device](https://codex.freesk8.org/assets/images/mobileapp/scan2.png)
 
 
-### Enter PIN Code (optional)
+### Enter PIN Code (optional, device-dependent)
 ![Enter PIN Code](https://codex.freesk8.org/assets/images/mobileapp/pair.png)
 ![Enter PIN Code](https://codex.freesk8.org/assets/images/mobileapp/paircode.png)
+
+### Create new Board Profile
+![Board Profile](https://codex.freesk8.org/assets/images/mobileapp/saveprofile.png)
+
