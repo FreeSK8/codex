@@ -26,4 +26,8 @@ parent: Robogotchi
 4. That's it! Once the Robogotchi has a satellite lock, it will automatically record GPS coordinate data in time sync with your ESC telemetry data. 
 
 
-## Next Steps: [Robogotchi Hardware Reference](https://codex.freesk8.org/docs/robogotchi/hardware-reference/)
+## Next Steps: 
+
+## [Robogotchi Hardware Reference](https://codex.freesk8.org/docs/robogotchi/hardware-reference/)
+
+## [FreeSK8 Mobile Ride Logging Documentation](https://codex.freesk8.org/docs/freesk8-mobile/ride-logging/)

@@ -26,9 +26,21 @@ Ride now, Sync later.
 3. Turn on board & connect with FreeSK8 Mobile & Pair your Robogotchi using supplied PIN code. 
 ![Select & Connect to Supported Device](https://codex.freesk8.org/assets/images/mobileapp/scan2.png)
 
-4. Create Board Profile & set user preferences.
+4. Create Board Profile & set user preferences. Remember to save!
 ![Board Profile](https://codex.freesk8.org/assets/images/mobileapp/saveprofile.png)
 
-5. Setup your Robogotchi Config.
+5. Setup your Robogotchi Configuration, found in the side menu. Remember to save!
 ![Gotchi Config](https://codex.freesk8.org/assets/images/mobileapp/gotchiconfig.png)
+If you are running Dual or Quad ESC configuration, remember to select the auxillary CAN IDs. 
 ![Gotchi Config](https://codex.freesk8.org/assets/images/mobileapp/gotchiconfig2.png)
+
+6. Your Robogotchi will automatically start logging based on the ERPM threshold set in your config, and ends automatically after a specified time (user set). You can also manually start/sync/stop logs on the Logging Tab of the Mobile App. 
+![Logging Tab](https://codex.freesk8.org/assets/images/mobileapp/logcalendar.png)
+
+7. When you would like to sync your ride logs, connect to your Robogotchi & click the "Sync Logs" button on the Logging Tab. This will initiate a sync transfer and copy the logs from Robogotchi to the Mobile App for viewing. 
+![Log Sync](https://codex.freesk8.org/assets/images/mobileapp/logsync.png)
+
+8. Tap on any log to launch it in the ride log viewer. 
+![Ride Log](https://codex.freesk8.org/assets/images/mobileapp/ridelog.png)
+
+You got it! Ride Safe!

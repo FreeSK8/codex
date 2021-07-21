@@ -9,4 +9,6 @@ has_children: true
 
 OSRR is an open source remote control project intended to establish a safe & open technology platform for wireless control of Light Electric Vehicles. 
 
+## MORE INFO COMING SOON
+
 

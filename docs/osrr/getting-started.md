@@ -5,6 +5,4 @@ nav_order: 3
 parent: OSRR
 ---
 
-## Quickstart
-
-### Pairing Process
+# COMING SOON
