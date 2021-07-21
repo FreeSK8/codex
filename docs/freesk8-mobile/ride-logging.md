@@ -28,3 +28,10 @@ Ride Merging. That’s right, you asked for it. Or maybe you didn’t but you mi
 The current sync mechanism is via Bluetooth Low Energy. We've optimized our file sizes and transmission rates to get the best performance possible.
 
 The sync time will vary depending on your ride duration, logging rate, signal quality and other active Bluetooth devices on your phone.
+
+## Next Steps: 
+
+## [Robogotchi Documentation](https://codex.freesk8.org/docs/robogotchi/)
+
+## [Advanced](https://codex.freesk8.org/docs/freesk8-mobile/advanced/)
+
