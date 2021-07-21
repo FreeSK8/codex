@@ -28,8 +28,8 @@ parent: Robogotchi
 ![Robogotchi Dimensional Drawing](https://codex.freesk8.org/assets/images/robogotchi/Robogotchi-Dimensions.PNG)
 
 ### Schematics
-* [Robogotchi v1.3 Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Schematics/FreeSK8-Robogotchi-v1.3.pdf)
-* [GPS Module Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Schematics/FreeSK8-GPS-v1.1.pdf)
+* [Robogotchi v1.3 Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Circuits/FreeSK8-Robogotchi-v1.4.pdf)
+* [GPS Module Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Circuits/FreeSK8-GPS-v1.1.pdf)
 
 ### 3D Models
 * Robogotchi PCB Assembly
