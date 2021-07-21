@@ -20,36 +20,39 @@ A technical documenation resource for the FreeSK8 Project & supported hardware c
 
 ### FreeSK8 Mobile
 
-The Mobile application is a cross platform solution to monitor and configure [VESC](https://vesc-project.com/) based ESCs via Bluetooth. Learn all about it [here](./docs/freesk8-mobile/).
+The [FreeSK8 Mobile](https://freesk8.app) application is a cross platform solution to monitor and configure [VESC](https://vesc-project.com/) based ESCs via Bluetooth. Learn all about it [here](./docs/freesk8-mobile/).
 
 ### FreeSK8 Robogotchi
 
-The [FreeSK8 Robogotchi](https://derelictrobot.com/collections/production/products/freesk8-robogotchi) is an advanced BLE Receiver, Datalogger, and core component of the FreeSK8 System.
+The [FreeSK8 Robogotchi] is an advanced BLE Receiver, Datalogger, and core component of the FreeSK8 System.
 
-Think of it like a blackbox flight recorder for your esk8 or LEV. 
-
-The Robogotchi brings Always-On Logging as a core feature with an asynchronous logging integration with our FreeSK8 Mobile App. 
+The Robogotchi brings Always-On Logging as a core feature with an asynchronous logging integration with our FreeSK8 Mobile App. Think of it like a blackbox flight recorder for your esk8 or LEV. 
 
 Learn all about it [here](./docs/robogotchi/)
 
 ### FreeSK8 Remote (OSRR 1.0)
 
-The [OSRR] Open Source Reconfigurable Remote is an open spec reference design for a robust remote control device for use with [VESC](https://vesc-project.com/) based PEVs.
+The [OSRR] Open Source Reconfigurable Remote is an open spec reference design for a robust remote control device for use with [VESC](https://vesc-project.com/) based PEVs. 
 
 Learn all about it [here](./docs/osrr/)
 
+### FreeSK8 netBMS
+
+A connected, intelligent battery charge monitor system. More info coming soon.  
+
+
 ## About the project
 
-FreeSK8 Codex is &copy; 2021 by [FreeSK8 Foundation NPO](http://freesk8.org).
+FreeSK8 Codex is &copy; 2021 by [FreeSK8 Foundation NPO](https://freesk8.org).
 
 ### License
 
-FreeSK8 Codex is distributed by a [GPL-3.0 license](https://github.com/DerelictRobot/just-the-docs/tree/master/LICENSE.txt).
+FreeSK8 Codex is distributed by a [GPL-3.0 license](https://github.com/FreeSK8/codex/tree/master/LICENSE).
 
 ### Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/DerelictRobot/just-the-docs#contributing).
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/FreeSK8/codex#contributing).
 
 #### Thank you to the contributors of Just the Docs!
 
@@ -65,4 +68,4 @@ email, or any other method with the owners of this repository before making a ch
 
 FreeSK8 Foundation is committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/DerelictRobot/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+[View our Code of Conduct](https://github.com/FreeSK8/codex/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
