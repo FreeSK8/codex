@@ -34,9 +34,9 @@ The sync time will vary depending on your ride duration, logging rate, signal qu
 
 Rides in human readable CSV format can be shared from the List View by swiping right
 
-![as demonstrated](https://codex.freesk8.org/assets/images/mobileapp/ride-logging/share.png)
+![as demonstrated](https://codex.freesk8.org/assets/images/mobileapp/ride-logging/share.jpg)
 
 or by swiping up in the Ride Log Viewer
 
-![as demonstrated](https://codex.freesk8.org/assets/images/mobileapp/ride-logging/share2.png)
+![as demonstrated](https://codex.freesk8.org/assets/images/mobileapp/ride-logging/share2.jpg)
 
