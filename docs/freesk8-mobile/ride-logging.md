@@ -3,6 +3,7 @@ layout: default
 title: Ride Logging
 nav_order: 6
 parent: FreeSK8 Mobile
+#has_children: true
 ---
 
 # Ride Logging
@@ -29,8 +30,13 @@ The current sync mechanism is via Bluetooth Low Energy. We've optimized our file
 
 The sync time will vary depending on your ride duration, logging rate, signal quality and other active Bluetooth devices on your phone.
 
-## Next Steps: 
+### Sharing Data
 
-## [Robogotchi Documentation](https://codex.freesk8.org/docs/robogotchi/)
-## [Advanced](https://codex.freesk8.org/docs/freesk8-mobile/advanced/)
+Rides in human readable CSV format can be shared from the List View by swiping right
+
+![as demonstrated](https://codex.freesk8.org/assets/images/mobileapp/ride-logging/share.png)
+
+or by swiping up in the Ride Log Viewer
+
+![as demonstrated](https://codex.freesk8.org/assets/images/mobileapp/ride-logging/share2.png)
 
