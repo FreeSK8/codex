@@ -27,25 +27,23 @@ Available for Android & iOS:
 # Quick Start
 
 ## Scan for BLE Devices
-![Scan for BLE Devices](https://codex.freesk8.org/assets/images/mobileapp/scan.png)
+![Scan for BLE Devices]({{ '/' | absolute_url }}assets/images/mobileapp/scan.png)
 
 ## Select & Connect to Supported Device
-![Select & Connect to Supported Device](https://codex.freesk8.org/assets/images/mobileapp/scan2.png)
+![Select & Connect to Supported Device]({{ '/' | absolute_url }}assets/images/mobileapp/scan2.png)
 
 
 ## Enter PIN Code (optional, device-dependent)
-![Enter PIN Code](https://codex.freesk8.org/assets/images/mobileapp/pair.png)
-![Enter PIN Code](https://codex.freesk8.org/assets/images/mobileapp/paircode.png)
+![Enter PIN Code]({{ '/' | absolute_url }}assets/images/mobileapp/pair.png)
+![Enter PIN Code]({{ '/' | absolute_url }}assets/images/mobileapp/paircode.png)
 
 ## Create new Board Profile
-![Board Profile](https://codex.freesk8.org/assets/images/mobileapp/saveprofile.png)
+![Board Profile]({{ '/' | absolute_url }}assets/images/mobileapp/saveprofile.png)
 
 ## Additional Features found in Side Menu
-![Side Menu](https://codex.freesk8.org/assets/images/mobileapp/sidemenu.png)
+![Side Menu]({{ '/' | absolute_url }}assets/images/mobileapp/sidemenu.png)
 
 
 That's it! You're ready to roll. 
 
-Check out the links in the Next Steps below to see the rest of the features & configuration options available.
-
-## Next Steps: [Connection Status](https://codex.freesk8.org/docs/freesk8-mobile/connection/)
+Check out the links in the Table of Contents below to see the rest of the features & configuration options available.
