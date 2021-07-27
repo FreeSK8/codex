@@ -5,8 +5,6 @@ nav_order: 2
 parent: Robogotchi
 ---
 
-
-
 ### Specifications
 
 * NRF52840 NRF BLE Module
@@ -19,32 +17,26 @@ parent: Robogotchi
 * LDO voltage regulator
 * Dimensions: 26 x 46 x 10 mm
 
-
 ### Hardware Layout
 
 ![Robogotchi Hardware Layout](https://codex.freesk8.org/assets/images/robogotchi/Robogotchi-pinout.png)
-
 
 ### Dimensional Drawing
 
 ![Robogotchi Dimensional Drawing](https://codex.freesk8.org/assets/images/robogotchi/Robogotchi-Dimensions.PNG)
 
-
 ### Schematics
 * [Robogotchi v1.3 Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Circuits/FreeSK8-Robogotchi-v1.4.pdf)
 * [GPS Module Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Circuits/FreeSK8-GPS-v1.1.pdf)
-
 
 ### 3D Models
 * [Robogotchi 3d Models](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/tree/main/3D-Models) 
 ![FreeSK8 Robogotchi ](https://codex.freesk8.org/assets/images/robogotchi/Robogotchi-render2.PNG)
 ![](./assets/images/robogotchi/Robogotchi-render.PNG)
 
-
 ### PCB Layout X-Ray
 ![Robogotchi PCB X-Ray](https://codex.freesk8.org/assets/images/robogotchi/Robogotchi-Xray.png)
 ![GPS Module PCB X-Ray](https://codex.freesk8.org/assets/images/robogotchi/GPS-Xray.png)
-
 
 ### Source Repositories & Technical Reference
 
