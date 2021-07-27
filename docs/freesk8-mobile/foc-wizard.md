@@ -12,11 +12,11 @@ The FOC Wizard initiates a detection routine in the ESC. This detection is speci
 
 The wizard process is demonstrated here:
 
-* ![Step 1]({{ '/' | absolute_url }}assets/images/mobileapp/foc1.png)
-* ![Step 2]({{ '/' | absolute_url }}assets/images/mobileapp/foc2.png)
-* ![Step 3]({{ '/' | absolute_url }}assets/images/mobileapp/foc3.png)
-* ![Detection Process]({{ '/' | absolute_url }}assets/images/mobileapp/foc4.png)
-* ![Detection Result]({{ '/' | absolute_url }}assets/images/mobileapp/foc5.png)
+![Step 1]({{ '/' | absolute_url }}assets/images/mobileapp/foc1.png)
+![Step 2]({{ '/' | absolute_url }}assets/images/mobileapp/foc2.png)
+![Step 3]({{ '/' | absolute_url }}assets/images/mobileapp/foc3.png)
+![Detection Process]({{ '/' | absolute_url }}assets/images/mobileapp/foc4.png)
+![Detection Result]({{ '/' | absolute_url }}assets/images/mobileapp/foc5.png)
 
 
 ## Next Step:
