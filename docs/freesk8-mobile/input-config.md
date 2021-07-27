@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Input Config
+title: Input Configuration
 nav_order: 5
 parent: FreeSK8 Mobile
 ---
@@ -16,7 +16,13 @@ Input configuration allows you to change the Application Mode in the ESC. FreeSK
 
 A PPM calibration routine is provided to determine the minimum and maximum signal values from a PPM based remote.
 
-![Input Configuration](https://codex.freesk8.org/assets/images/mobileapp/inputconfig.png)
+![PPM Calibration]({{ '/' | absolute_url }}assets/images/mobileapp/ppm-calibrate.gif)
+
+Instructions are provided at the start of the routine. If the calibration fails to produce meaningful values you have the option to Reject the proposed settings.
+
+Other common input parameters are the control type and input deadband. Advanced options are available.
+
+![Input Configuration]({{ '/' | absolute_url }}assets/images/mobileapp/inputconfig.png)
 
 Advanced tuning parameters are available such as:
 
@@ -24,4 +30,4 @@ Advanced tuning parameters are available such as:
 * Throttle Exponential
 * Traction Control
 
-![Input Configuration](https://codex.freesk8.org/assets/images/mobileapp/inputconfig2.png)
+![Input Configuration]({{ '/' | absolute_url }}assets/images/mobileapp/inputconfig2.png)
