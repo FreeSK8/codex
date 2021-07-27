@@ -26,8 +26,9 @@ parent: Robogotchi
 ![Robogotchi Dimensional Drawing](https://codex.freesk8.org/assets/images/robogotchi/Robogotchi-Dimensions.PNG)
 
 ### Schematics
-* [Robogotchi v1.3 Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Circuits/FreeSK8-Robogotchi-v1.4.pdf)
-* [GPS Module Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Circuits/FreeSK8-GPS-v1.1.pdf)
+* [Robogotchi v1.4 Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Circuits/Robogotchi/FreeSK8-Robogotchi-v1.4.pdf)
+* [Xenigotchi v1.3 Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Circuits/Xenigotchi/Xenigotchi-v1.3.pdf)
+* [GPS Module Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Circuits/GPS/GPS-v1.2.pdf)
 
 ### 3D Models
 * [Robogotchi 3d Models](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/tree/main/3D-Models) 
