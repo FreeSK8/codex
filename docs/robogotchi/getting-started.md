@@ -20,7 +20,7 @@ parent: Robogotchi
 
 ## GPS Module Setup & Use
 
-1. Once mounted & plugged in, the GPS module is supplied power from the Robogotchi. You should see a green LED turn on solid to indicate power. The Robogotchi will also display Satellite Status on it's screen. Please see the [Status Screen documentation](https://codex.freesk8.org/docs/freesk8-mobile/connection) for more details. 
+1. Once mounted & plugged in, the GPS module is supplied power from the Robogotchi. You should see a green LED turn on solid to indicate power. The Robogotchi will also display Satellite Status on it's screen. Please see the [Status Screen documentation](https://codex.freesk8.org/docs/robogotchi/operation-status/) for more details. 
 2. The GPS module needs time to calibrate & lock on initially, and sometimes this first calibration can take longer than normal operation. In good weather conditions and with clear line of sight to the sky, an initial satellite lock should usually take less than a minute, and in most circumstances subsequent startups take 5-30 seconds. 
 3. You will hear a melody played when the Robogotchi gains or loses a satellite lock. 
 4. That's it! Once the Robogotchi has a satellite lock, it will automatically record GPS coordinate data in time sync with your ESC telemetry data. 
