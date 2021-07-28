@@ -18,9 +18,9 @@ A PPM calibration routine is provided to determine the minimum and maximum signa
 
 ![PPM Calibration]({{ '/' | absolute_url }}assets/images/mobileapp/ppm-calibrate.gif)
 
-Instructions are provided at the start of the routine. If the calibration fails to produce meaningful values you have the option to Reject the proposed settings.
+Instructions are provided at the start of the routine. The expected result is the red dot resting in the center and moving in conjunction with your remote's throttle. If the calibration fails to produce meaningful values you have the option to Reject the proposed settings.
 
-Other common input parameters are the control type and input deadband. Advanced options are available.
+Other common input parameters provided are the control type and input deadband.
 
 ![Input Configuration]({{ '/' | absolute_url }}assets/images/mobileapp/inputconfig.png)
 
