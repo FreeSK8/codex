@@ -19,7 +19,7 @@ The logging column shows if data is currently being saved, the number of files o
 
 Once connected there is much you can do. Here are a few good topics to get you going...
 
-### [Realtime Status Screen]({{ '/' | absolute_url }}docs/freesk8-mobile/realtime/)
+### [Realtime Status Screen]({{ '/' | absolute_url }}docs/freesk8-mobile/real-time-data/)
 ### [Motor Configuration]({{ '/' | absolute_url }}docs/freesk8-mobile/motor-config/)
 ### [Input Configuration]({{ '/' | absolute_url }}docs/freesk8-mobile/input-config/)
 ### [Ride Logging]({{ '/' | absolute_url }}docs/freesk8-mobile/ride-logging/)
