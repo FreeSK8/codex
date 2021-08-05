@@ -36,7 +36,9 @@ Pretty simple, yeah? Cool. As with the Vehicle Manager, this is new feature and 
 
 The current sync mechanism is via Bluetooth Low Energy. We've optimized our file sizes and transmission rates to get the best performance possible.
 
-The sync time will vary depending on your ride duration, logging rate, signal quality and other active Bluetooth devices on your phone.
+The sync time will vary depending on your ride duration, [logging rate]({{ '/' | absolute_url }}docs/freesk8-mobile/robogotchi-config/#log-entries-per-second), signal quality and other active Bluetooth devices on your phone.
+
+![Ride Sync]({{ '/' | absolute_url }}assets/images/mobileapp/logsync.png)
 
 ### Sharing Data
 

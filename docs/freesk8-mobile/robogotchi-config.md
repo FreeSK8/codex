@@ -9,6 +9,10 @@ parent: FreeSK8 Mobile
 
 The Robogotchi configuration lets you change the settings saved in the Robogotchi. These are good to adjust when setting up a new Robogotchi or moving one to a new vehicle. 
 
+You can access the Robogotchi Configuration from the hambuger menu.
+
+![Hamburger Menu]({{ '/' | absolute_url }}assets/images/mobileapp/sidemenu.png)
+
 ### Parameters
 
 #### Log Auto Stop/Idle Board Timeout
