@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ride Logging
-nav_order: 6
+nav_order: 7
 parent: FreeSK8 Mobile
 #has_children: true
 ---

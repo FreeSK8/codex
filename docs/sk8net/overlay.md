@@ -9,7 +9,7 @@ parent: sk8net
 
 ![Overlay Tool]({{ '/' | absolute_url }}assets/images/sk8net/overlay/overlay.jpg)
 
-The [Overlay Tool](https://overlay.freesk8.dev/) allows you to take your FreeSK8 data and add it to your videos using the Garmin [VIRB Edit](https://www8.garmin.com/support/download_details.jsp?id=6591) software. Some of you likely have used this before but in case you haven't the software is for Windows based computers and free to download. You can use video from essentially any camera and overlay custom gauges.
+The [Overlay Tool](https://overlay.freesk8.dev/) allows you to take your FreeSK8 data and add it to your videos using the Garmin [VIRB Edit](https://www8.garmin.com/support/download_details.jsp?id=6591) software. Some of you likely have used VIRB Edit before but in case you haven't the software is for Windows based computers and free to download. You can use video from essentially any camera and overlay custom gauges.
 
 For best results this is what we've learned:
 

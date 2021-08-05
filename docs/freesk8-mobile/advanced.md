@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Advanced
-nav_order: 7
+nav_order: 8
 parent: FreeSK8 Mobile
 has_children: true
 ---
