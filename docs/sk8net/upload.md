@@ -7,7 +7,7 @@ parent: sk8net
 
 #### FDLA
 
-![FDLA](https://codex.freesk8.org/assets/images/sk8net/fdla/fdla.jpg)
+![FDLA]({{ '/' | absolute_url }}assets/images/sk8net/fdla/fdla.jpg)
 
 The [FreeSK8 Data Log Analyzer](https://upload.freesk8.dev/) was derived from the [VDLA](https://github.com/yoxcu/vdla) project. This tool allows you to view your FreeSK8 data in your browser leveraging Google's Maps and Charting APIs.
 

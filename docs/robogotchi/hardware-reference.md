@@ -19,11 +19,11 @@ parent: Robogotchi
 
 ### Hardware Layout
 
-![Robogotchi Hardware Layout](https://codex.freesk8.org/assets/images/robogotchi/Robogotchi-pinout.png)
+![Robogotchi Hardware Layout]({{ '/' | absolute_url }}assets/images/robogotchi/Robogotchi-pinout.png)
 
 ### Dimensional Drawing
 
-![Robogotchi Dimensional Drawing](https://codex.freesk8.org/assets/images/robogotchi/Robogotchi-Dimensions.PNG)
+![Robogotchi Dimensional Drawing]({{ '/' | absolute_url }}assets/images/robogotchi/Robogotchi-Dimensions.PNG)
 
 ### Schematics
 * [Robogotchi v1.4 Schematic](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/blob/main/Circuits/Robogotchi/FreeSK8-Robogotchi-v1.4.pdf)
@@ -32,12 +32,12 @@ parent: Robogotchi
 
 ### 3D Models
 * [Robogotchi 3d Models](https://github.com/FreeSK8/FreeSK8-Robogotchi-Hardware/tree/main/3D-Models) 
-![FreeSK8 Robogotchi ](https://codex.freesk8.org/assets/images/robogotchi/Robogotchi-render2.PNG)
+![FreeSK8 Robogotchi ]({{ '/' | absolute_url }}assets/images/robogotchi/Robogotchi-render2.PNG)
 ![](./assets/images/robogotchi/Robogotchi-render.PNG)
 
 ### PCB Layout X-Ray
-![Robogotchi PCB X-Ray](https://codex.freesk8.org/assets/images/robogotchi/Robogotchi-Xray.png)
-![GPS Module PCB X-Ray](https://codex.freesk8.org/assets/images/robogotchi/GPS-Xray.png)
+![Robogotchi PCB X-Ray]({{ '/' | absolute_url }}assets/images/robogotchi/Robogotchi-Xray.png)
+![GPS Module PCB X-Ray]({{ '/' | absolute_url }}assets/images/robogotchi/GPS-Xray.png)
 
 ### Source Repositories & Technical Reference
 
@@ -47,4 +47,4 @@ Deep dive into the Robogotchi [hardware](https://github.com/FreeSK8/FreeSK8-Robo
 
 
 
-## Next Steps: [Robogotchi Operation & Status](https://codex.freesk8.org/docs/robogotchi/operation-status/)
+## Next Steps: [Robogotchi Operation & Status]({{ '/' | absolute_url }}docs/robogotchi/operation-status/)

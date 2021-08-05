@@ -7,11 +7,11 @@ parent: Robogotchi
 
 ### Robogotchi Status Screen
 
-![Robogotchi OLED Status Screen](https://codex.freesk8.org/assets/images/robogotchi/Robotochi-Screen-Status.jpg)
+![Robogotchi OLED Status Screen]({{ '/' | absolute_url }}assets/images/robogotchi/Robotochi-Screen-Status.jpg)
 
 ### Bluetooth Status and PIN code
 
-![](https://codex.freesk8.org/assets/images/robogotchi/LED-Status.PNG)
+![]({{ '/' | absolute_url }}assets/images/robogotchi/LED-Status.PNG)
 
 ### Display PIN code
 
@@ -76,4 +76,4 @@ This will display Log active when Robogotchi is saving data to it’s internal s
 Each log is counted as 1 file and will remain on Robogotchi until a Sync operation is performed in the FreeSK8 Mobile companion application.
 
 
-## Next Steps: [Robogotchi Sounds & Alerts](https://codex.freesk8.org/docs/robogotchi/sounds-alerts/)
+## Next Steps: [Robogotchi Sounds & Alerts]({{ '/' | absolute_url }}docs/robogotchi/sounds-alerts/)

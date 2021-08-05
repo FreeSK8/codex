@@ -20,13 +20,13 @@ The List view is a sortable table of entries. From here you'll have the ability 
 
 A long press on any ride entry will display the board name and few extra details about your trip.
 
-![Quick Statistics Dialog](https://codex.freesk8.org/assets/images/mobileapp/ride-logging/quick-stats.jpg)
+![Quick Statistics Dialog]({{ '/' | absolute_url }}assets/images/mobileapp/ride-logging/quick-stats.jpg)
 
 ### Ride Merging
 
 Ride Merging. That’s right, you asked for it. Or maybe you didn’t but you might really like it anyway 😉 From the List View on the Ride Logging tab you can swipe right to Merge with the previous ride. You'll be promted with a dialog that displays the vehicle name, timestamps and durations so you have one last chance to make sure everything is good to go.
 
-![Merge Confirmation](https://codex.freesk8.org/assets/images/mobileapp/ride-logging/merge.jpg)
+![Merge Confirmation]({{ '/' | absolute_url }}assets/images/mobileapp/ride-logging/merge.jpg)
 
 Pretty simple, yeah? Cool. As with the Vehicle Manager, this is new feature and it would be a good idea to do a backup before merging anything important to you.
 
@@ -42,9 +42,9 @@ The sync time will vary depending on your ride duration, logging rate, signal qu
 
 Rides in human readable CSV format can be shared from the List View by swiping right
 
-![as demonstrated](https://codex.freesk8.org/assets/images/mobileapp/ride-logging/share.jpg)
+![as demonstrated]({{ '/' | absolute_url }}assets/images/mobileapp/ride-logging/share.jpg)
 
 or by swiping up in the Ride Log Viewer
 
-![as demonstrated](https://codex.freesk8.org/assets/images/mobileapp/ride-logging/share2.jpg)
+![as demonstrated]({{ '/' | absolute_url }}assets/images/mobileapp/ride-logging/share2.jpg)
 

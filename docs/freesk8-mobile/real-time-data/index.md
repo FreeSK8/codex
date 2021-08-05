@@ -28,6 +28,6 @@ With the real time data tab visible FreeSK8 requests telemetry from the primary 
 * Fault Code
 * Current location of mobile device
 
-![Realtime Status Screen](https://codex.freesk8.org/assets/images/mobileapp/realtime.png)
+![Realtime Status Screen]({{ '/' | absolute_url }}assets/images/mobileapp/realtime.png)
 
 Additional real time telemetry can be streamed if a compatible smart BMS device is connected to the CAN bus. Select the "Show Flexi/DieBieMS" option in the hamburger menu to request battery telemetry. See the [Smart BMS]({{ '/' | absolute_url }}docs/freesk8-mobile/real-time-data/smart-bms) section for more information.
