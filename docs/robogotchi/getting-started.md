@@ -9,7 +9,7 @@ parent: Robogotchi
 1. You will want to connect, configure, & test your Robogotchi before you finish installation into an eBoard, eBike, or LEV.
 2. Plug the Robogotchi into your ESC's UART port using the supplied 150mm 4pin to 8pin UART Cable. If you use dual ESCs, it can be connected to either ESC but the primary is preferred. 
 3. Plug the GPS Module into the Robogotchi's GPS port, using the supplied 300mm 4-pin to 4-pin Cable.
-4. Power on your ESC. You should hear a startup Not-Mario-Melody & the status screen will turn on. More information on the [Status Screen can be found here.](./docs/robogotchi/operation-status.md)
+4. Power on your ESC. You should hear a startup Not-Mario-Melody & the status screen will turn on. More information on the [Status Screen can be found here.](https://codex.freesk8.org/docs/robogotchi/operation-status/)
 5. Press B1 to display your PIN code. Write this 6-digit number down and/or take a picture of it in your phone for future reference. This PIN code is unique to your Robogotchi and acts as a security measure to prevent unauthorized access. 
 6. Launch the FreeSK8 Mobile App & Scan for nearby devices. You should see the Robogotchi broadcasting as "FreeSK8 Robogotchi", connect to it and enter your PIN code when prompted. 
 7. You should hear a melody from the Robogotchi upon successful bluetooth connection, and you will be prompted to create a Board Profile on the FreeSK8 Mobile App.
