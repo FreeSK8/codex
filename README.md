@@ -1,5 +1,11 @@
 # FreeSK8 Codex
 
+## Local testing
+
+```
+bundle exec jekyll serve
+```
+
 <!-- LICENSE -->
 ## License
 
