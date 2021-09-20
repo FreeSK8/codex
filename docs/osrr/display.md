@@ -7,7 +7,7 @@ parent: OSRR
 
 ## OSRR Display 
 
-During normal operation Primary Display Elements are visible at all times. Switching between View 1 and 2 with a sigle press of the User Button. If the ESC reports a Fault code an Alert Dialog will be displayed until dismissed with the User Button.
+During normal operation Primary Display Elements are visible at all times. Switching between View 1 and 2 with a single press of the User Button. If the ESC reports a Fault code an Alert Dialog will be displayed until dismissed with the User Button.
 
 > NOTE: The OSRR Beta is currently in progress. Changes in software may not yet be reflected here.
 
