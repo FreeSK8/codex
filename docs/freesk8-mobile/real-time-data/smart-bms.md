@@ -10,7 +10,11 @@ grand_parent: FreeSK8 Mobile
 
 Additional real time telemetry can be streamed if a compatible smart BMS device is connected to the CAN bus. Select the "Show Flexi/DieBieMS" option in the hamburger menu to request battery telemetry.
 
-Tested BMS devices:
+#### Notes:
+* FreeSK8 requests BMS telemetry from CAN ID 10
+* If a second BMS is installed the CAN ID can quickly be toggled to ID 11
+
+#### Tested BMS devices:
 
 * [DieBieMS](https://github.com/DieBieEngineering)
 * [FlexiBMS](https://github.com/SimosMCmuffin)
