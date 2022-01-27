@@ -18,6 +18,8 @@ Available for Android & iOS:
 ## Supported Devices
 * Robogotchi
 * Xenigotchi
+* DieBieMS
+* FlexiBMS
 * Stormcore 60/100D ESCs
 * Trampa VESC w/ NRF/BLE
 * Metr Pro
