@@ -1,6 +1,6 @@
 {
   "name": "just-the-docs",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "A modern Jekyll theme for documentation",
   "repository": "pmarsceill/just-the-docs",
   "license": "MIT",
@@ -19,5 +19,7 @@
     "format": "prettier --write '**/*.{scss,js,json}'",
     "stylelint-check": "stylelint-config-prettier-check"
   },
-  "dependencies": {}
+  "dependencies": {
+    "lodash": ">=4.17.21"
+  }
 }
